@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Start_Android</string>
+    <string name="title_p004">Урок 4 - P004_BasicViews</string>
+    <!-- Типы -->
+    <string name="text_tv">Текстовое поле</string>
+    <string name="text_btn">Кнопка</string>
+
+</resources>
