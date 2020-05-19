@@ -27,6 +27,11 @@
             android:name=".P004_BasicViews"
             android:label="@string/title_p004" >
         </activity>
+        <!-- Activity -->
+        <activity
+            android:name=".P005_LayoutFiles"
+            android:label="@string/title_p005" >
+        </activity>
     </application>
 
 </manifest>

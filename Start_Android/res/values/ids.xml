@@ -2,5 +2,6 @@
 <resources>
 
     <item type="id" name="btn_p004"/>
+    <item type="id" name="btn_p005"/>
 
 </resources>
